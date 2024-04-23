@@ -9,5 +9,3 @@ I am a front-end developer with a special fondness for space 🔭
 - 📫 How to reach me: dpmelian@mitologiasdelmundo.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love optimizing processes and increasing performance of systems
-
-[![dpMelian's GitHub | Languages Over Time](https://stats.quine.sh/dpMelian/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=dpMelian)
